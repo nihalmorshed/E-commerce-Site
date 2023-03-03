@@ -1,0 +1,52 @@
+.container {
+    margin-bottom: 70px;
+}
+
+.bg-pink {
+    background-color: #FEEAE9;
+    border-radius: 20px;
+}
+
+.carousel-item {
+    padding: 35px;
+}
+
+h2 {
+    color: #FF136F;
+    margin-bottom: 15px;
+}
+
+.buybutton {
+    background-image: linear-gradient(45deg, #FF136F, palevioletred, plum);
+
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.bag {
+    background-image: linear-gradient(to right, #FF136F, palevioletred);
+    border-radius: 20px;
+    padding: 20px;
+    color: white;
+
+
+}
+
+.shoes {
+    background-image: linear-gradient(45deg, royalblue, blue);
+    border-radius: 20px;
+    padding: 20px;
+    color: white;
+}
+
+.watch {
+    background-image: linear-gradient(45deg, orange, yellow);
+    border-radius: 20px;
+    padding: 20px;
+    color: white;
+}
